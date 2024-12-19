@@ -20,7 +20,10 @@
   "homepage": "https://github.com/FernandoOMelo/api-node#readme",
   "description": "",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.1",
     "nodemon": "^3.0.1"
   }
 }
